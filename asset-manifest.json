@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FirebaseShop/static/css/main.f097713f.css",
+    "main.js": "/FirebaseShop/static/js/main.d3feaeb2.js",
+    "index.html": "/FirebaseShop/index.html",
+    "main.f097713f.css.map": "/FirebaseShop/static/css/main.f097713f.css.map",
+    "main.d3feaeb2.js.map": "/FirebaseShop/static/js/main.d3feaeb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f097713f.css",
+    "static/js/main.d3feaeb2.js"
+  ]
+}
